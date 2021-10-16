@@ -11,7 +11,7 @@
 </p>
 
 ## O Projeto
-getKcal é uma aplicação web desenvolvida com o objetivo de calcular o metabolismo basal, o consumo médio de calorias para perder, ganhar ou manter peso. As fórmulas matemáticas usadas no cálculo foram obtidas através de pesquisas. Foi desenvolvida durante uma vídeo-aula do canal [Mateus Silva](https://www.youtube.com/c/MateusSilvaDev)
+getKcal é uma aplicação web desenvolvida com o objetivo de calcular o metabolismo basal, o consumo médio de calorias para perder, ganhar ou manter peso. As fórmulas matemáticas usadas no cálculo foram obtidas através de pesquisas. Desenvolvido durante uma vídeo-aula do canal do youtube [Mateus Silva](https://www.youtube.com/c/MateusSilvaDev)
 
 ## Tecnologias
 
