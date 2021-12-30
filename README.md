@@ -33,7 +33,7 @@ $ git clone https://github.com/LeandroFilie/getKcal.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd getKcal
 ```
-
+Para acesso de forma online, [clique aqui](https://get-kcal-leandrofilie.vercel.app/)
 ---
 
 Feito com :heart: by [Leandro Filié](https://github.com/LeandroFilie)
